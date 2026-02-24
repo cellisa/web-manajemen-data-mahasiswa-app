@@ -26,8 +26,8 @@ Field:
 - id (Primary Key)
 - nim
 - nama
-- jurusan
-- angkatan
+- alamat
+- fakultas
 
 ## ▶ Cara Menjalankan Project
 
@@ -35,7 +35,7 @@ Field:
 2. Simpan folder project ke dalam htdocs (XAMPP)
 3. Jalankan Apache dan MySQL
 4. Akses melalui browser:
-   http://localhost/webuas_crud
+   http://localhost/webuas%20crud
 
 ## Tujuan Pembuatan
 Project ini dibuat untuk tugas UAS yang mencakup:
